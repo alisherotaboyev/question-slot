@@ -8,6 +8,14 @@ const questions = [
   "CSS nimaga yordam beradi?",
   "JavaScript nima?",
   "React.js va Next.js nima?",
+  "Hook nima?",
+  "useState nima?",
+  "useEffect nima?",
+  "useContext nima?",
+  "Pure function nima?",
+  "Loop nima?",
+  "Boolean nima?",
+  "Symbol nima?"
 ];
 
 function getRandomQuestion() {
