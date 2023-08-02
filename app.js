@@ -15,7 +15,11 @@ const questions = [
   "Pure function nima?",
   "Loop nima?",
   "Boolean nima?",
-  "Symbol nima?"
+  "Symbol nima?",
+  "Promise nima?",
+  "Async/await funksiya",
+  "This nima?",
+  "Hosting nima?"
 ];
 
 function getRandomQuestion() {
