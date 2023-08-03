@@ -19,7 +19,12 @@ const questions = [
   "Promise nima?",
   "Async/await funksiya",
   "This nima?",
-  "Hosting nima?"
+  "Hosting nima?",
+  "Metod nima?",
+  "use strict nimaga kerak?",
+  "Asinxron funksiyalarga nimalar kiradi?",
+  "Sinxron funksiyalarga nimalar kiradi?",
+  "Math operatorlar",
 ];
 
 function getRandomQuestion() {
