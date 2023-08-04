@@ -29,7 +29,12 @@ const questions = [
   "NaN nima?",
   "DOM nima?",
   "BOM nima?",
-  "localStorage nima vazifani bajaradi?"
+  "localStorage nima vazifani bajaradi?",
+  "Type Conversions nima?",
+  "Mantiqiy operatorlar",
+  "variables",
+  "map nima vazifani bajaradi?",
+  "Array metodlarini sanab bering?"
 ];
 
 function getRandomQuestion() {
