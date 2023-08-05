@@ -34,7 +34,10 @@ const questions = [
   "Mantiqiy operatorlar",
   "variables",
   "map nima vazifani bajaradi?",
-  "Array metodlarini sanab bering?"
+  "Array metodlarini sanab bering?",
+  "filter() nima vazifani bajaradi?",
+  "find() nima vazifani bajaradi?",
+  "find() va filter() ning farqi nima?",
 ];
 
 function getRandomQuestion() {
