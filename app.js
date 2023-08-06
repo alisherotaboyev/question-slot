@@ -38,6 +38,7 @@ const questions = [
   "filter() nima vazifani bajaradi?",
   "find() nima vazifani bajaradi?",
   "find() va filter() ning farqi nima?",
+  "nextjs haqida nima bilasiz"
 ];
 
 function getRandomQuestion() {
