@@ -38,7 +38,12 @@ const questions = [
   "filter() nima vazifani bajaradi?",
   "find() nima vazifani bajaradi?",
   "find() va filter() ning farqi nima?",
-  "nextjs haqida nima bilasiz"
+  "nextjs haqida nima bilasiz",
+  "TypeScript nima?",
+  "TypeScriptda void",
+  "Tailwind CSS haqida gapirib bering",
+  "Tailwind CSS da yozilgan stil qanday stil deyiladi?",
+  "Nega typescriptda yozilgan kod kompayl qilinishi kerak?",
 ];
 
 function getRandomQuestion() {
