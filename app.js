@@ -44,6 +44,10 @@ const questions = [
   "Tailwind CSS haqida gapirib bering",
   "Tailwind CSS da yozilgan stil qanday stil deyiladi?",
   "Nega typescriptda yozilgan kod kompayl qilinishi kerak?",
+  "useLocation nima?",
+  "React va Vite orasidagi farq",
+  "React query nima?",
+  "Ant Design nima?"
 ];
 
 function getRandomQuestion() {
