@@ -47,7 +47,11 @@ const questions = [
   "useLocation nima?",
   "React va Vite orasidagi farq",
   "React query nima?",
-  "Ant Design nima?"
+  "Ant Design nima?",
+  "clsx nima?",
+  "switch case nima?",
+  "useParams bilan useLocation farqi",
+  "axios token nima?",
 ];
 
 function getRandomQuestion() {
