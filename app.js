@@ -52,6 +52,11 @@ const questions = [
   "switch case nima?",
   "useParams bilan useLocation farqi",
   "axios token nima?",
+  "Reacharts nima?",
+  "SCSS da yozilgan kod qaysi tilga compile bo'ladi?",
+  "BEM nima?",
+  "SASS nima?",
+  "SASS va SCSS ning bir-biridan farqi nima?",
 ];
 
 function getRandomQuestion() {
