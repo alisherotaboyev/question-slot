@@ -57,6 +57,11 @@ const questions = [
   "BEM nima?",
   "SASS nima?",
   "SASS va SCSS ning bir-biridan farqi nima?",
+  "Vite necha mgb?",
+  "swagger nima?",
+  "refresh tokrn nima?",
+  "Chart eng yaxshi kutubxonalar",
+  "cookie fayl nima?",
 ];
 
 function getRandomQuestion() {
