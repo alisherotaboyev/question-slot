@@ -65,7 +65,9 @@ const questions = [
   "particles js nima?",
   "bitta projectda 2 ta bir-xil vazifani bajaradigan kutubxona o'rnatish to'grimi?",
   "three js nima?",
-  
+  "validation nima?",
+  "ninja code nima?",
+  "garbage collection nima?",
 ];
 
 function getRandomQuestion() {
