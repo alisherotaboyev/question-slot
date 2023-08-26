@@ -71,6 +71,9 @@ const questions = [
   "react-phone-number-input nima?",
   "github nima uchun kerak?",
   "gitlab nima?",
+  "regex nima?",
+  "regex haqida gapirib bering?",
+  "regex so'zining uzaytmasi"
 ];
 
 function getRandomQuestion() {
