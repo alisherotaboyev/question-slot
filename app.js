@@ -73,7 +73,11 @@ const questions = [
   "gitlab nima?",
   "regex nima?",
   "regex haqida gapirib bering?",
-  "regex so'zining uzaytmasi"
+  "regex so'zining uzaytmasi",
+  "useMemo nima?",
+  "useRef nima?",
+  "useReducer nima?",
+  "reduce() nima?"
 ];
 
 function getRandomQuestion() {
