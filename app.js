@@ -77,7 +77,12 @@ const questions = [
   "useMemo nima?",
   "useRef nima?",
   "useReducer nima?",
-  "reduce() nima?"
+  "reduce() nima?",
+  "postman nima?",
+  "request turlariga nimalar kiradi?",
+  "nechta request turi mavjud?",
+  "GET nima?",
+  "POST nima?"
 ];
 
 function getRandomQuestion() {
