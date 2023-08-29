@@ -51,7 +51,7 @@ const questions = [
   "clsx nima?",
   "switch case nima?",
   "useParams bilan useLocation farqi",
-  "axios token nima?",
+  "access token nima?",
   "Reacharts nima?",
   "SCSS da yozilgan kod qaysi tilga compile bo'ladi?",
   "BEM nima?",
@@ -82,7 +82,12 @@ const questions = [
   "request turlariga nimalar kiradi?",
   "nechta request turi mavjud?",
   "GET nima?",
-  "POST nima?"
+  "POST nima?",
+  "PUT nima?",
+  "PATCH nima?",
+  "DELETE nima?",
+  "refresh token nima",
+  "barer token nima?"
 ];
 
 function getRandomQuestion() {
