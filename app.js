@@ -87,7 +87,9 @@ const questions = [
   "PATCH nima?",
   "DELETE nima?",
   "refresh token nima",
-  "barer token nima?"
+  "barer token nima?",
+  "axios va react queryning nima farqi bor?",
+  "TypeScriptdagi any tipi nima?",
 ];
 
 function getRandomQuestion() {
