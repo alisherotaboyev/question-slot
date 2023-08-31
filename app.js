@@ -90,6 +90,7 @@ const questions = [
   "barer token nima?",
   "axios va react queryning nima farqi bor?",
   "TypeScriptdagi any tipi nima?",
+  "confilict nima?",
 ];
 
 function getRandomQuestion() {
