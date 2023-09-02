@@ -91,6 +91,8 @@ const questions = [
   "axios va react queryning nima farqi bor?",
   "TypeScriptdagi any tipi nima?",
   "confilict nima?",
+  "!! manashu belgi nima vazifa bajaradi?",
+  "?? manashu belgi nima vazifa bajaradi?"
 ];
 
 function getRandomQuestion() {
