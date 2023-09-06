@@ -94,7 +94,8 @@ const questions = [
   "!! ushbu belgi nima vazifa bajaradi?",
   "?? ushbu belgi nima vazifa bajaradi?",
   "&& ushbu belgi nima vazifa bajaradi?",
-  "|| ushbu belgi nima vazifa bajaradi?"
+  "|| ushbu belgi nima vazifa bajaradi?",
+  "? ushbu belgi nima vazifa bajaradi?",
 ];
 
 function getRandomQuestion() {
