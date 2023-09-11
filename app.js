@@ -99,6 +99,7 @@ const questions = [
   "! ushbu belgi nima vazifa bajaradi?",
   "then nima?",
   "vue js haqida nima bilasiz?",
+  "kutubxona va frameworkning farqi nimada?",
 ];
 
 function getRandomQuestion() {
