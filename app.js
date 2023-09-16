@@ -102,6 +102,7 @@ const questions = [
   "kutubxona va frameworkning farqi nimada?",
   "kutubxona nima?",
   "framework nima?",
+  "mobile dasturlash haqida nimalarni bilasiz?",
 ];
 
 function getRandomQuestion() {
