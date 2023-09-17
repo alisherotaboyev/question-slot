@@ -68,7 +68,6 @@ const questions = [
   "validation nima?",
   "ninja code nima?",
   "garbage collection nima?",
-  "react-phone-number-input nima?",
   "github nima uchun kerak?",
   "gitlab nima?",
   "regex nima?",
@@ -103,6 +102,7 @@ const questions = [
   "kutubxona nima?",
   "framework nima?",
   "mobile dasturlash haqida nimalarni bilasiz?",
+  "react native nima?",
 ];
 
 function getRandomQuestion() {
