@@ -104,6 +104,7 @@ const questions = [
   "mobile dasturlash haqida nimalarni bilasiz?",
   "react native nima?",
   "expo nima?",
+  "angular haqida gapirib bering?",
 ];
 
 function getRandomQuestion() {
