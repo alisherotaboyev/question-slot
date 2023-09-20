@@ -105,6 +105,7 @@ const questions = [
   "react native nima?",
   "expo nima?",
   "angular haqida gapirib bering?",
+  "vue js haqida nima bilasiz?",
 ];
 
 function getRandomQuestion() {
