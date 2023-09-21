@@ -68,7 +68,7 @@ const questions = [
   "validation nima?",
   "ninja code nima?",
   "garbage collection nima?",
-  "github nima uchun kerak?",
+  "github nima uchun kerak?", 
   "gitlab nima?",
   "regex nima?",
   "regex haqida gapirib bering?",
@@ -106,6 +106,7 @@ const questions = [
   "expo nima?",
   "angular haqida gapirib bering?",
   "vue js haqida nima bilasiz?",
+  "svelte haqida nima bilasiz?",
 ];
 
 function getRandomQuestion() {
