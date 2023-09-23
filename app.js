@@ -108,6 +108,7 @@ const questions = [
   "vue js haqida nima bilasiz?",
   "svelte haqida nima bilasiz?",
   "eng tez javascript frameworki qaysi?",
+  "javascriptni qachon va kim ishlab chiqqan?",
 ];
 
 function getRandomQuestion() {
