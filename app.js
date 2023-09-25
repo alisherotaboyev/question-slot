@@ -109,6 +109,7 @@ const questions = [
   "svelte haqida nima bilasiz?",
   "eng tez javascript frameworki qaysi?",
   "javascriptni qachon va kim ishlab chiqqan?",
+  "clipboard nima?",
 ];
 
 function getRandomQuestion() {
