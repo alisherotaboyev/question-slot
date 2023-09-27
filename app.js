@@ -110,6 +110,7 @@ const questions = [
   "eng tez javascript frameworki qaysi?",
   "javascriptni qachon va kim ishlab chiqqan?",
   "clipboard nima?",
+  "bootstrap nima?",
 ];
 
 function getRandomQuestion() {
