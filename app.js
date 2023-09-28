@@ -111,6 +111,7 @@ const questions = [
   "javascriptni qachon va kim ishlab chiqqan?",
   "clipboard nima?",
   "bootstrap nima?",
+  "string metodlarini sanab bering?",
 ];
 
 function getRandomQuestion() {
