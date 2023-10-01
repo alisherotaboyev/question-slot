@@ -112,7 +112,8 @@ const questions = [
   "clipboard nima?",
   "bootstrap nima?",
   "string metodlarini sanab bering?",
-  "number metodlarinni sanab bering?",
+  "number metodlarini sanab bering?",
+  "array metodlarini sanab bering?",
 ];
 
 function getRandomQuestion() {
