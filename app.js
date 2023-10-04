@@ -115,6 +115,7 @@ const questions = [
   "number metodlarini sanab bering?",
   "array metodlarini sanab bering?",
   "object metodlarini sanab bering?",
+  "testing nima?",
 ];
 
 function getRandomQuestion() {
