@@ -117,6 +117,7 @@ const questions = [
   "object metodlarini sanab bering?",
   "testing nima?",
   "jest nima?",
+  "react testing library nima?",
 ];
 
 function getRandomQuestion() {
