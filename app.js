@@ -120,6 +120,7 @@ const questions = [
   "react testing library nima?",
   "json metodlarini sanab bering?",
   "javascriptda iterables nima?",
+  "javascriptda call nima?",
 ];
 
 function getRandomQuestion() {
