@@ -121,6 +121,7 @@ const questions = [
   "json metodlarini sanab bering?",
   "javascriptda iterables nima?",
   "javascriptda call nima?",
+  "javascriptda apply nima?",
 ];
 
 function getRandomQuestion() {
