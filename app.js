@@ -122,6 +122,7 @@ const questions = [
   "javascriptda iterables nima?",
   "javascriptda call nima?",
   "javascriptda apply nima?",
+  "git flow nima?",
 ];
 
 function getRandomQuestion() {
