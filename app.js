@@ -124,6 +124,7 @@ const questions = [
   "javascriptda apply nima?",
   "git flow nima?",
   "scrum nima?",
+  "solid prinsplar nima?",
 ];
 
 function getRandomQuestion() {
