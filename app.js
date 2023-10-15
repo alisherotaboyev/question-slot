@@ -126,6 +126,7 @@ const questions = [
   "scrum nima?",
   "solid prinsplar nima?",
   "mikrotasklar nima?",
+  "reference type nima?",
 ];
 
 function getRandomQuestion() {
