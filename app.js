@@ -128,6 +128,7 @@ const questions = [
   "mikrotasklar nima?",
   "reference type nima?",
   "commetns haqida gapirib bering?",
+  "error handling nima?",
 ];
 
 function getRandomQuestion() {
