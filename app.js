@@ -129,6 +129,7 @@ const questions = [
   "reference type nima?",
   "commetns haqida gapirib bering?",
   "error handling nima?",
+  "javascriptda generators nima?",
 ];
 
 function getRandomQuestion() {
