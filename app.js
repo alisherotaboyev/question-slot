@@ -125,11 +125,12 @@ const questions = [
   "git flow nima?",
   "scrum nima?",
   "solid prinsplar nima?",
-  "mikrotasklar nima?",
+  "mikro tasklar nima?",
   "reference type nima?",
   "commetns haqida gapirib bering?",
   "error handling nima?",
   "javascriptda generators nima?",
+  "makro tasklar nima?",
 ];
 
 function getRandomQuestion() {
