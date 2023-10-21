@@ -132,6 +132,7 @@ const questions = [
   "javascriptda generators nima?",
   "makro tasklar nima?",
   "dynamic imports nima?",
+  "OPI nima?",
 ];
 
 function getRandomQuestion() {
