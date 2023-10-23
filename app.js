@@ -134,6 +134,7 @@ const questions = [
   "dynamic imports nima?",
   "OPI nima?",
   "SEO nima?",
+  "google analistika nima?",
 ];
 
 function getRandomQuestion() {
