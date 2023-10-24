@@ -6,6 +6,7 @@ const questionBox = document.querySelector(".question-box");
 const questions = [
   "HTML nima?",
   "CSS nimaga yordam beradi?",
+  "HTMLda selectors nima?",
   "JavaScript nima?",
   "React.js va Next.js nima?",
   "Hook nima?",
