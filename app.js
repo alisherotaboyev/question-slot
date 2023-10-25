@@ -7,6 +7,7 @@ const questions = [
   "HTML nima?",
   "CSS nimaga yordam beradi?",
   "HTMLda selectors nima?",
+  "meta teglar nima",
   "JavaScript nima?",
   "React.js va Next.js nima?",
   "Hook nima?",
