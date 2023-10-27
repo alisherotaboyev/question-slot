@@ -138,6 +138,7 @@ const questions = [
   "OPI nima?",
   "SEO nima?",
   "google analistika nima?",
+  "global object nima?",
 ];
 
 function getRandomQuestion() {
