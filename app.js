@@ -140,6 +140,7 @@ const questions = [
   "google analistika nima?",
   "global object nima?",
   "typescriptda interface nima?",
+  "npm audit nima?",
 ];
 
 function getRandomQuestion() {
