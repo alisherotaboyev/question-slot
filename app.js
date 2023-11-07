@@ -141,6 +141,7 @@ const questions = [
   "global object nima?",
   "typescriptda interface nima?",
   "npm audit nima?",
+  "a"
 ];
 
 function getRandomQuestion() {
