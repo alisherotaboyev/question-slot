@@ -141,7 +141,7 @@ const questions = [
   "global object nima?",
   "typescriptda interface nima?",
   "npm audit nima?",
-  "a"
+  "angularni qanaqa ustun jihatlari bor?",
 ];
 
 function getRandomQuestion() {
