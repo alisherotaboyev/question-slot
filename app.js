@@ -142,6 +142,7 @@ const questions = [
   "typescriptda interface nima?",
   "npm audit nima?",
   "angularni qanaqa ustun jihatlari bor?",
+  "vue js ning qanday ustun jihatlari bor?",
 ];
 
 function getRandomQuestion() {
