@@ -6,7 +6,7 @@ const questionBox = document.querySelector(".question-box");
 const questions = [
   "Is TypeScript similar to JavaScript?",
   "Do I need to learn TypeScript if I already know JavaScript?",
-  "Are TypeScript’s types mandatory?",
+  "Are TypeScript's types mandatory?",
   "Can I use existing JavaScript libraries with TypeScript?",
   "Is TypeScript suitable for all types of projects?",
   "Explain the data types available in TypeScript",
@@ -93,7 +93,7 @@ const questions = [
   "How is Dependency Hierarchy formed?",
   "What is the purpose of the async pipe?",
   "What is the option to choose between inline and external templates?",
-  "What is the purpose of the ‘ngFor’ directive?",
+  "What is the purpose of the ngFor directive?",
   "What is the purpose of the ngIf directive?",
   "What happens if you use the script tag inside the template?",
   "What are template expressions?",
