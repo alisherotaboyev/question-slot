@@ -35,9 +35,9 @@ h2 {
 .btn {
   width: 200px;
   cursor: pointer;
-  transition: 0.01s;
+  transition: 0.09s;
 }
 
 .btn:active {
-  transform: scale(1.1);
+  transform: scale(0.9);
 }
